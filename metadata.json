@@ -1,0 +1,6 @@
+{
+  "name": "Eli Planner",
+  "description": "A beautiful Persian/Shamsi daily planner (Eli Planner) with progress charts, customizable themes, and reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
